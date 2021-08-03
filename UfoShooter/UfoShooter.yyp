@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"Spaceshooter","path":"objects/Spaceshooter/Spaceshooter.yy",},"order":0,},
     {"id":{"name":"Battleship","path":"sprites/Battleship/Battleship.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
