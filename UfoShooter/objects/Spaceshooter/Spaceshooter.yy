@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Battleship",
+    "path": "sprites/Battleship/Battleship.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -25,7 +28,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "Spaceshooter",
   "tags": [],
   "resourceType": "GMObject",
 }
