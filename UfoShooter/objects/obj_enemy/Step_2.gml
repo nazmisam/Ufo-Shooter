@@ -1,17 +1,24 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
-/// @DnDHash : 1684BE2A
-/// @DnDArgument : "var" "y"
-/// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "room_height + 64"
-if(y >= room_height + 64)
+/// @DnDHash : 24741FF0
+/// @DnDArgument : "obj" "obj_player"
+/// @DnDSaveInfo : "obj" "obj_player"
+var l24741FF0_0 = false;
+l24741FF0_0 = instance_exists(obj_player);
+if(l24741FF0_0)
 {
-	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
-	/// @DnDVersion : 1
-	/// @DnDHash : 4215A353
-	/// @DnDParent : 1684BE2A
-	/// @DnDArgument : "x" "random_range(64, room_width-64)"
-	/// @DnDArgument : "y" "-65"
-	x = random_range(64, room_width-64);
-	y = -65;
+
 }
+
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
+/// @DnDVersion : 1
+/// @DnDHash : 423A1841
+/// @DnDArgument : "x" "obj_player.x"
+/// @DnDArgument : "y" "obj_player.y"
+direction = point_direction(x, y, obj_player.x, obj_player.y);
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 21FE72B6
+/// @DnDArgument : "speed" "enemy_speed"
+speed = enemy_speed;
