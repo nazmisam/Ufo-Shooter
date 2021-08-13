@@ -1,4 +1,4 @@
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 565BE1E2
+/// @DnDHash : 0A66B5CC
 instance_destroy();
