@@ -3,10 +3,12 @@
 /// @DnDHash : 5C94E7E5
 instance_destroy();
 
-/// @DnDAction : YoYo Games.Rooms.Restart_Room
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 506ECAEA
-room_restart();
+/// @DnDHash : 4FA5FBA8
+/// @DnDArgument : "room" "gameover"
+/// @DnDSaveInfo : "room" "gameover"
+room_goto(gameover);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
