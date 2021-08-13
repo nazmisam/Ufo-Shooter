@@ -5,6 +5,14 @@
 /// @DnDSaveInfo : "soundid" "pewpewcimang"
 audio_play_sound(pewpewcimang, 0, 0);
 
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Volume
+/// @DnDVersion : 1
+/// @DnDHash : 6721B805
+/// @DnDArgument : "sound" "pewpewcimang"
+/// @DnDArgument : "volume" "0.2"
+/// @DnDSaveInfo : "sound" "pewpewcimang"
+audio_sound_gain(pewpewcimang, 0.2, 0);
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 078DD7CD

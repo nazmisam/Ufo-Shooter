@@ -22,3 +22,11 @@ global.Player_score += 5;
 /// @DnDArgument : "soundid" "cimangmampus"
 /// @DnDSaveInfo : "soundid" "cimangmampus"
 audio_play_sound(cimangmampus, 0, 0);
+
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Volume
+/// @DnDVersion : 1
+/// @DnDHash : 4258EA36
+/// @DnDArgument : "sound" "cimangmampus"
+/// @DnDArgument : "volume" "0.5"
+/// @DnDSaveInfo : "sound" "cimangmampus"
+audio_sound_gain(cimangmampus, 0.5, 0);

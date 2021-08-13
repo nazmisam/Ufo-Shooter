@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "cimangmampus.mp3",
-  "duration": 0.0,
+  "duration": 0.496292,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

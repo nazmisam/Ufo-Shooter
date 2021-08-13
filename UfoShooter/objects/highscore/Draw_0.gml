@@ -5,4 +5,5 @@
 /// @DnDArgument : "y" "25"
 /// @DnDArgument : "caption" ""Highscore: ""
 /// @DnDArgument : "var" "global.Player_highscore"
+
 draw_text(10, 25, string("Highscore: ") + string(global.Player_highscore));

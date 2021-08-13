@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"19653977-5431-4233-8dd7-b88fbe27467c","path":"sprites/bg_planet2/bg_planet2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19653977-5431-4233-8dd7-b88fbe27467c","path":"sprites/bg_planet2/bg_planet2.yy",},"LayerId":{"name":"9a40551d-d75d-4526-a97b-e24aa0eceeee","path":"sprites/bg_planet2/bg_planet2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"19653977-5431-4233-8dd7-b88fbe27467c","path":"sprites/bg_planet2/bg_planet2.yy",},"LayerId":{"name":"bd0ce7da-8251-448e-9081-92e71a9e6646","path":"sprites/bg_planet2/bg_planet2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"19653977-5431-4233-8dd7-b88fbe27467c","path":"sprites/bg_planet2/bg_planet2.yy",},"LayerId":{"name":"9a40551d-d75d-4526-a97b-e24aa0eceeee","path":"sprites/bg_planet2/bg_planet2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"bg_planet2","path":"sprites/bg_planet2/bg_planet2.yy",},"resourceVersion":"1.0","name":"19653977-5431-4233-8dd7-b88fbe27467c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

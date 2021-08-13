@@ -30,15 +30,14 @@ if(global.Player_score > global.Player_highscore)
 /// @DnDHash : 548581EB
 else
 {
-
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 57CBA007
+	/// @DnDInput : 2
+	/// @DnDParent : 548581EB
+	/// @DnDArgument : "value" "global.Player_highscore"
+	/// @DnDArgument : "var" "global.Player_highscore"
+	/// @DnDArgument : "var_1" "global.Player_score"
+	global.Player_highscore = global.Player_highscore;
+	global.Player_score = 0;
 }
-
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 57CBA007
-/// @DnDInput : 2
-/// @DnDArgument : "value" "global.Player_highscore"
-/// @DnDArgument : "var" "global.Player_highscore"
-/// @DnDArgument : "var_1" "global.Player_score"
-global.Player_highscore = global.Player_highscore;
-global.Player_score = 0;
