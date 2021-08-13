@@ -15,3 +15,10 @@ instance_create_layer(random_range(64, room_width-64), -64, "Enemy", obj_enemy);
 /// @DnDArgument : "value_relative" "1"
 /// @DnDArgument : "var" "global.Player_score"
 global.Player_score += 5;
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6EA6F95C
+/// @DnDArgument : "soundid" "cimangmampus"
+/// @DnDSaveInfo : "soundid" "cimangmampus"
+audio_play_sound(cimangmampus, 0, 0);
