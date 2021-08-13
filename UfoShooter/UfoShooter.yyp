@@ -19,6 +19,7 @@
     {"id":{"name":"bg_planet2","path":"sprites/bg_planet2/bg_planet2.yy",},"order":4,},
     {"id":{"name":"MENU_bg","path":"objects/MENU_bg/MENU_bg.yy",},"order":11,},
     {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},"order":7,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"Spaceshooter","path":"objects/Spaceshooter/Spaceshooter.yy",},"order":0,},
     {"id":{"name":"Battleship","path":"sprites/Battleship/Battleship.yy",},"order":16,},
     {"id":{"name":"bg_moon","path":"sprites/bg_moon/bg_moon.yy",},"order":5,},
