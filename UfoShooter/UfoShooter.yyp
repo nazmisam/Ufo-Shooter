@@ -13,6 +13,7 @@
     {"id":{"name":"Score","path":"objects/Score/Score.yy",},"order":8,},
     {"id":{"name":"obj_player14","path":"objects/obj_player14/obj_player14.yy",},"order":13,},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},"order":1,},
+    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},"order":1,},
     {"id":{"name":"enter","path":"sprites/enter/enter.yy",},"order":9,},
     {"id":{"name":"bg_Space","path":"sprites/bg_Space/bg_Space.yy",},"order":2,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":8,},
