@@ -16,10 +16,10 @@ audio_sound_gain(pewpewcimang, 0.2, 0);
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 606F201F
-/// @DnDArgument : "xpos" "obj_player.x"
-/// @DnDArgument : "ypos" "obj_player.y"
+/// @DnDArgument : "xpos" "obj_player14.x"
+/// @DnDArgument : "ypos" "obj_player14.y"
 /// @DnDArgument : "var_temp" "1"
-/// @DnDArgument : "objectid" "bullet2"
+/// @DnDArgument : "objectid" "bullet"
 /// @DnDArgument : "layer" ""bullet2""
-/// @DnDSaveInfo : "objectid" "bullet2"
-instance_create_layer(obj_player.x, obj_player.y, "bullet2", bullet2);
+/// @DnDSaveInfo : "objectid" "bullet"
+instance_create_layer(obj_player14.x, obj_player14.y, "bullet2", bullet);
